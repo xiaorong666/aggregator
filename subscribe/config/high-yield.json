@@ -7,8 +7,7 @@
                 "public"
             ],
             "saved": true,
-            "include": "\\b(JP|JPN|Japan|Tokyo|Osaka|SG|SGP|Singapore|HK|HKG|Hong ?Kong|TW|TWN|Taiwan|Taipei|Kaohsiung)\\b",
-            "liveness": true,
+            "liveness": false,
             "rate": 20,
             "ignorede": true
         },
@@ -19,8 +18,7 @@
                 "public"
             ],
             "saved": true,
-            "include": "\\b(JP|JPN|Japan|Tokyo|Osaka|SG|SGP|Singapore|HK|HKG|Hong ?Kong|TW|TWN|Taiwan|Taipei|Kaohsiung)\\b",
-            "liveness": true,
+            "liveness": false,
             "rate": 20,
             "ignorede": true
         },
@@ -31,8 +29,7 @@
                 "public"
             ],
             "saved": true,
-            "include": "\\b(JP|JPN|Japan|Tokyo|Osaka|SG|SGP|Singapore|HK|HKG|Hong ?Kong|TW|TWN|Taiwan|Taipei|Kaohsiung)\\b",
-            "liveness": true,
+            "liveness": false,
             "rate": 20,
             "ignorede": true
         },
@@ -43,8 +40,7 @@
                 "public"
             ],
             "saved": true,
-            "include": "\\b(JP|JPN|Japan|Tokyo|Osaka|SG|SGP|Singapore|HK|HKG|Hong ?Kong|TW|TWN|Taiwan|Taipei|Kaohsiung)\\b",
-            "liveness": true,
+            "liveness": false,
             "rate": 20,
             "ignorede": true
         },
@@ -55,8 +51,7 @@
                 "public"
             ],
             "saved": true,
-            "include": "\\b(JP|JPN|Japan|Tokyo|Osaka|SG|SGP|Singapore|HK|HKG|Hong ?Kong|TW|TWN|Taiwan|Taipei|Kaohsiung)\\b",
-            "liveness": true,
+            "liveness": false,
             "rate": 20,
             "ignorede": true
         },
@@ -67,8 +62,7 @@
                 "public"
             ],
             "saved": true,
-            "include": "\\b(JP|JPN|Japan|Tokyo|Osaka|SG|SGP|Singapore|HK|HKG|Hong ?Kong|TW|TWN|Taiwan|Taipei|Kaohsiung)\\b",
-            "liveness": true,
+            "liveness": false,
             "rate": 20,
             "ignorede": true
         },
@@ -79,8 +73,7 @@
                 "public"
             ],
             "saved": true,
-            "include": "\\b(JP|JPN|Japan|Tokyo|Osaka|SG|SGP|Singapore|HK|HKG|Hong ?Kong|TW|TWN|Taiwan|Taipei|Kaohsiung)\\b",
-            "liveness": true,
+            "liveness": false,
             "rate": 20,
             "ignorede": true
         },
@@ -91,8 +84,7 @@
                 "public"
             ],
             "saved": true,
-            "include": "\\b(JP|JPN|Japan|Tokyo|Osaka|SG|SGP|Singapore|HK|HKG|Hong ?Kong|TW|TWN|Taiwan|Taipei|Kaohsiung)\\b",
-            "liveness": true,
+            "liveness": false,
             "rate": 20,
             "ignorede": true
         }
