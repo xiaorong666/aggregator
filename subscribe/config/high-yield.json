@@ -7,7 +7,7 @@
                 "public"
             ],
             "saved": true,
-            "liveness": false,
+            "liveness": true,
             "rate": 20,
             "ignorede": true
         },
@@ -18,7 +18,7 @@
                 "public"
             ],
             "saved": true,
-            "liveness": false,
+            "liveness": true,
             "rate": 20,
             "ignorede": true
         },
@@ -29,7 +29,7 @@
                 "public"
             ],
             "saved": true,
-            "liveness": false,
+            "liveness": true,
             "rate": 20,
             "ignorede": true
         },
@@ -40,7 +40,7 @@
                 "public"
             ],
             "saved": true,
-            "liveness": false,
+            "liveness": true,
             "rate": 20,
             "ignorede": true
         },
@@ -51,7 +51,7 @@
                 "public"
             ],
             "saved": true,
-            "liveness": false,
+            "liveness": true,
             "rate": 20,
             "ignorede": true
         },
@@ -62,7 +62,7 @@
                 "public"
             ],
             "saved": true,
-            "liveness": false,
+            "liveness": true,
             "rate": 20,
             "ignorede": true
         },
@@ -73,7 +73,7 @@
                 "public"
             ],
             "saved": true,
-            "liveness": false,
+            "liveness": true,
             "rate": 20,
             "ignorede": true
         },
@@ -84,7 +84,7 @@
                 "public"
             ],
             "saved": true,
-            "liveness": false,
+            "liveness": true,
             "rate": 20,
             "ignorede": true
         }
