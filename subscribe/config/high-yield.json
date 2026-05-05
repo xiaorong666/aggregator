@@ -1,0 +1,145 @@
+{
+    "domains": [
+        {
+            "name": "mahdibland-v2rayaggregator",
+            "sub": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_yaml.yml",
+            "push_to": [
+                "public"
+            ],
+            "saved": true,
+            "liveness": false,
+            "rate": 20,
+            "ignorede": true
+        },
+        {
+            "name": "epodonios-v2ray-configs",
+            "sub": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
+            "push_to": [
+                "public"
+            ],
+            "saved": true,
+            "liveness": false,
+            "rate": 20,
+            "ignorede": true
+        },
+        {
+            "name": "firmfox-proxify-1",
+            "sub": "https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-1.txt",
+            "push_to": [
+                "public"
+            ],
+            "saved": true,
+            "liveness": false,
+            "rate": 20,
+            "ignorede": true
+        },
+        {
+            "name": "firmfox-proxify-2",
+            "sub": "https://raw.githubusercontent.com/Firmfox/proxify/main/v2ray_configs/mixed/subscription-2.txt",
+            "push_to": [
+                "public"
+            ],
+            "saved": true,
+            "liveness": false,
+            "rate": 20,
+            "ignorede": true
+        },
+        {
+            "name": "ruking-freesub",
+            "sub": "https://raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml",
+            "push_to": [
+                "public"
+            ],
+            "saved": true,
+            "liveness": false,
+            "rate": 20,
+            "ignorede": true
+        },
+        {
+            "name": "awesome-vpn",
+            "sub": "https://raw.githubusercontent.com/awesome-vpn/awesome-vpn/master/clash.yaml",
+            "push_to": [
+                "public"
+            ],
+            "saved": true,
+            "liveness": false,
+            "rate": 20,
+            "ignorede": true
+        },
+        {
+            "name": "mfuu-v2ray",
+            "sub": "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
+            "push_to": [
+                "public"
+            ],
+            "saved": true,
+            "liveness": false,
+            "rate": 20,
+            "ignorede": true
+        },
+        {
+            "name": "ermaozi-get-subscribe",
+            "sub": "https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt",
+            "push_to": [
+                "public"
+            ],
+            "saved": true,
+            "liveness": false,
+            "rate": 20,
+            "ignorede": true
+        }
+    ],
+    "crawl": {
+        "enable": false,
+        "singlelink": false,
+        "threshold": 3,
+        "persist": {
+            "subs": "crawledsubs",
+            "proxies": "crawledproxies"
+        }
+    },
+    "groups": {
+        "public": {
+            "emoji": true,
+            "list": true,
+            "targets": {
+                "clash": "clash",
+                "singbox": "singbox",
+                "v2ray": "v2ray"
+            },
+            "regularize": {
+                "enable": false
+            }
+        }
+    },
+    "storage": {
+        "engine": "gist",
+        "items": {
+            "clash": {
+                "username": "xiaorong666",
+                "gistid": "e377cbf2421826775e2fbb6552c643d7",
+                "filename": "clash.yaml"
+            },
+            "singbox": {
+                "username": "xiaorong666",
+                "gistid": "e377cbf2421826775e2fbb6552c643d7",
+                "filename": "singbox.json"
+            },
+            "v2ray": {
+                "username": "xiaorong666",
+                "gistid": "e377cbf2421826775e2fbb6552c643d7",
+                "filename": "v2ray.txt"
+            },
+            "crawledsubs": {
+                "username": "xiaorong666",
+                "gistid": "e377cbf2421826775e2fbb6552c643d7",
+                "filename": "crawledsubs.json"
+            },
+            "crawledproxies": {
+                "username": "xiaorong666",
+                "gistid": "e377cbf2421826775e2fbb6552c643d7",
+                "filename": "crawledproxies.txt"
+            }
+        }
+    }
+}
